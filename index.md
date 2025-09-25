@@ -50,7 +50,7 @@
 
 * **Output:** Working custom NOMAD Oasis instance with plugin
 
-## **[Wrap-Up & Q\&A](#wrap-up--qa)** 
+## **[Wrap-Up & Q&A](#wrap-up--qa)** 
 
 * Recap main learning points
 
